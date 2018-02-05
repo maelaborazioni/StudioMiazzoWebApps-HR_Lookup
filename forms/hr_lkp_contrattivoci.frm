@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/hrv_lkp_contrattivoci",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"DD883CBA-D47F-43E9-850D-A9F69E44A74A"
+}
+],
+name:"hr_lkp_contrattivoci",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"CDF20553-D0F3-423D-A821-D1530470F778"

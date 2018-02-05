@@ -1,0 +1,14 @@
+dataSource:"db:/ma_hr/contratti",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"EB3873EE-9FC4-46D5-9098-FE1E648F9CF6"
+}
+],
+name:"hr_lkp_contratti",
+size:"400,480",
+typeid:3,
+uuid:"DED84514-1623-43EA-BCB7-61D8707F3EBD"

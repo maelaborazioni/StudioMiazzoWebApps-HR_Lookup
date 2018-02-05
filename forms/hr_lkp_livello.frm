@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/tablivello",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"9D4F8A5A-E370-40CF-9FFA-3E5216884560"
+}
+],
+name:"hr_lkp_livello",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"2017BB86-539B-4F16-A114-0430107D13EB"

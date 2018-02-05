@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/hrv_lkp_contrattielementi",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"CDE6D601-4F29-4DCD-87F8-9C95CE680DB0"
+}
+],
+name:"hr_lkp_contrattielementi",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E177AEE6-09CE-4FBF-BE5E-9C76529F5E66"

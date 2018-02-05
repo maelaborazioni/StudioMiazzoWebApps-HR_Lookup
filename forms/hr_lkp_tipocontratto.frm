@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/tabtipocontratto",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"6061A946-3C16-44EE-8903-9789CD906CFC"
+}
+],
+name:"hr_lkp_tipocontratto",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4B46AB0D-CDDA-404A-80CB-4695A5822EB7"

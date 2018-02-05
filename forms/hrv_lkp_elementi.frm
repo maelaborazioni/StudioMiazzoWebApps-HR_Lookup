@@ -1,0 +1,16 @@
+dataSource:"db:/ma_hr/hrv_elementi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"1531D3D4-49A6-4681-A11F-F58DCAA836F5"
+}
+],
+name:"hrv_lkp_elementi",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"C3325F5F-CFA6-4FCE-8EC2-6967E115BF82"

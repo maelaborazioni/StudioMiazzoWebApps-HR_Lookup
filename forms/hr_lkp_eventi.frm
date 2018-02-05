@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/hrv_lkp_eventi",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A1C22C40-FC95-4EBA-B2D0-1685EDDB2157"
+}
+],
+name:"hr_lkp_eventi",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"34A601E0-C21C-4D68-B93F-F899FDF9AAD7"

@@ -1,0 +1,14 @@
+dataSource:"db:/ma_hr/contrattilivelli",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"3AE72A10-3CC7-4069-9DD5-67174EDEE522"
+}
+],
+name:"hr_lkp_contrattilivelli",
+size:"400,480",
+typeid:3,
+uuid:"6BE60836-1DA6-4F2A-9C6B-CD4E3D21FD6A"

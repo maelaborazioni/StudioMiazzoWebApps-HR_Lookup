@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/dittescopiriclassificazioni",
+extendsID:"0",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"5E11C2C8-0AF9-496D-BC31-05D74B457BAF"
+}
+],
+name:"hr_lkp_scopiriclassificazioni",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"B407B353-4F0A-4CFD-9429-60BF6FA9AC9B"
